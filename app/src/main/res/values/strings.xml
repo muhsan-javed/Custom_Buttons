@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Custom Buttons</string>
+    <string name="search">Search</string>
+    <string name="hello">Hello</string>
+</resources>
